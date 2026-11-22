@@ -8,6 +8,11 @@ Clone this repository, or download the stage folder you need, and carry on from 
 and 2 work in the symbol and footprint editors with no project open, so their stages are library
 folders; from Module 3 on, every stage is a complete KiCad project that opens on its own.
 
+## About Tech Explorations
+
+This course is made by [Tech Explorations](https://techexplorations.com). Visit the site to learn
+more about Tech Explorations and its other courses.
+
 ## Projects
 
 | Folder | Project | Used in |
